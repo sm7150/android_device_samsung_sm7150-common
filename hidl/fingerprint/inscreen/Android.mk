@@ -5,7 +5,7 @@ LOCAL_PATH := hardware/samsung/hidl/fingerprint/inscreen
 
 include $(CLEAR_VARS)
 
-LOCAL_MODULE := vendor.lineage.biometrics.fingerprint.inscreen@1.0-service.samsung-sm8250
+LOCAL_MODULE := vendor.lineage.biometrics.fingerprint.inscreen@1.0-service.samsung-sm61500
 LOCAL_MODULE_TAGS := optional
 
 LOCAL_MODULE_PATH := $(TARGET_OUT_PRODUCT)/vendor_overlay/$(PLATFORM_VNDK_VERSION)/bin

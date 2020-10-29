@@ -5,7 +5,7 @@ LOCAL_PATH := hardware/samsung/hidl/sensors
 
 include $(CLEAR_VARS)
 
-LOCAL_MODULE := android.hardware.sensors@1.0-impl.samsung-sm8250
+LOCAL_MODULE := android.hardware.sensors@1.0-impl.samsung-sm6150
 LOCAL_MODULE_TAGS  := optional
 LOCAL_VENDOR_MODULE := true
 

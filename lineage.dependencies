@@ -8,7 +8,8 @@
         "target_path": "hardware/samsung"
     },
     {
-        "repository": "android_kernel_samsung_sm8250",
-        "target_path": "kernel/samsung/sm8250"
+        "repository": "sm7150/a70qkernel",
+	"remote": github
+        "target_path": "kernel/samsung/a70q"
     }
 ]
